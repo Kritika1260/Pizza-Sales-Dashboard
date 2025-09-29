@@ -1,9 +1,10 @@
 # Pizza-Sales-Dashboard
 
 1. 🍕 Pizza Analytics: Sales Performance & Insights Dashboard
+   
 A dynamic, interactive Power BI dashboard designed to analyze pizza sales trends across categories, sizes, days, and months—highlighting best/worst performers, revenue drivers, and customer demand patterns.
 
-2. Short Description 
+3. Short Description 
 
 The Pizza Sales Dashboard is an interactive and visually appealing Power BI report designed to analyze pizza sales performance across categories, sizes, days, and months. It helps businesses track revenue, order trends, and product performance while identifying best and worst sellers. This tool empowers restaurant managers, sales analysts, and decision-makers to optimize menu offerings, pricing strategies, and inventory planning.
 
